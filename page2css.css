@@ -1,0 +1,110 @@
+body {
+	font-family: Josefin Sans, sans-serif;
+	background: url("images/toad.jpg") no-repeat top fixed;
+	background-size: cover;
+	height: 100vh;
+	background-repeat: no-repeat;
+	margin-top: 0;
+	padding: 0;
+	margin: 0;
+}
+h1{
+	font-family: Jost;
+	color: #F7EAC9;
+	font-size: 150px;
+	text-align: center;
+	margin: 0px 100px;
+	margin-top: 210px;
+	margin-bottom: 50px;
+}
+#logo {
+	margin-right: 30px;
+	float: right;
+}
+#nav1 {
+	margin-right: 1350px;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+h3 {
+	background-color: #F7EAC9;
+	color: #6B3648;
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+#box2 {
+	background: url("images/bannersmall.png");
+	background-color: #505D36;
+	background-size: 1300px;
+	background-position: center;
+	height: 300px;
+	border: 1px solid #505D36;
+}
+#box2bq {
+	font-family: Playfair Display;
+	margin:100px 370px;
+	color: #F7EAC9;
+	text-align: center;
+	font-size: 20px;
+	line-height: 30px;
+}
+#box3 {
+	background-color: #F7EAC9;
+	border: 1px solid #F7EAC9;
+}
+#box {
+	display: flex;
+	justify-content: space-between;
+	margin: 100px 280px;
+}
+#image {
+	margin-top: 25px;
+}
+#textbox{
+	margin-left: 30px;
+	line-height: 25px;
+}
+h4 {
+	font-weight:lighter;
+	font-size: 30px;
+}
+footer {
+	background-color: #44232E;
+	border: 1px solid #44232E;;
+	height: 325px;
+}
+#logontext{
+	display: flex;
+	justify-content: center;
+	padding: 50px;
+	margin: 30px 150px;
+}
+#textsection {
+	display: flex;
+	justify-content: space-around;
+	text-align: left;
+}
+#footerlogo {
+	margin-right: 50px;
+	margin-top: 40px;
+}
+a:link {
+  color: #F7EAC9;
+  text-decoration: none;
+}
+a:visited {
+	color: #F7EAC9;
+	text-decoration: none;
+}
+a:hover {
+  color: #F7EAC9;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: #505D36;
+  background-color: transparent;
+  text-decoration: underline;
+}
